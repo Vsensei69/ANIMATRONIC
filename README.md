@@ -19,7 +19,12 @@ En este caso el animatrónico a realizar será Foxy, pero se realizara de un tam
 
 #### ALTURA
  He llegado a la conclusión de que el animatrónico tendrá una altura, tras mucha indecisió y pensarlo mucho, que será de _**1.50 metros**_
+ 
 Tendrá esta medida por varias razones:
-    1. **Seguridad**: es más fácil derribar, o atacar a un robot pequeño que a uno grande, esto se debe al peso,         las piezas grandes metalicas pesan más que las pequeñas.
-    2. **Estetica**: me gusta que sea pequeño no voy a mentir
-    3. **Querencia**: la gente, ya sean adultos o infantes, se sentirán más seguros y cómodos viendo un robot            pequeño y eficiente.  
+
+  1. **Seguridad**: es más fácil derribar, o atacar a un robot pequeño que a uno grande, esto se debe al peso,         las piezas grandes metalicas pesan más que las pequeñas.
+    
+  2. **Estetica**: me gusta que sea pequeño no voy a mentir.
+    
+  3. **Querencia**: la gente, ya sean adultos o infantes, se sentirán más seguros y cómodos viendo un robot            pequeño y eficiente.
+
