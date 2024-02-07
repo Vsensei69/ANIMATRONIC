@@ -22,9 +22,15 @@ En este caso el animatrónico a realizar será Foxy, pero se realizara de un tam
  
 Tendrá esta medida por varias razones:
 
-  1. **Seguridad**: es más fácil derribar, o atacar a un robot pequeño que a uno grande, esto se debe al peso,         las piezas grandes metalicas pesan más que las pequeñas.
+  1. **Seguridad**: es más fácil derribar, o atacar a un robot pequeño que a uno grande, esto se debe al peso,las piezas grandes metalicas pesan más que las pequeñas.
     
   2. **Estetica**: me gusta que sea pequeño no voy a mentir.
     
-  3. **Querencia**: la gente, ya sean adultos o infantes, se sentirán más seguros y cómodos viendo un robot            pequeño y eficiente.
+  3. **Querencia**: la gente, ya sean adultos o infantes, se sentirán más seguros y cómodos viendo un robot pequeño y eficiente.
 
+### Concepto principal
+
+Aquí se dejará un recurso visual de cual es el objetivo a alcanzar en este proyecto. El cual será la imagen que tienes aquí.
+
+
+[![Foxy Fnaf World](https://images.app.goo.gl/8Pi3KTG5dRMzZrhu7)
