@@ -18,7 +18,7 @@ También dispondrá de una función especial, destinada para las familias, en la
 En este caso el animatrónico a realizar será Foxy, pero se realizara de un tamaño diferente a la que suele tener el animatronico. Para ello procederemos a indicar los satos básicos como la altura e imagenes del aspecto.
 
 #### ALTURA
- He llegado a la conclusión de que el animatrónico tendrá una altura, tras mucha indecisió y pensarlo mucho, que será de _**1.50 metros**_
+ He llegado a la conclusión de que el animatrónico tendrá una altura, tras mucha indecisión y pensarlo mucho, que será de _**1.50 metros**_
  
 Tendrá esta medida por varias razones:
 
