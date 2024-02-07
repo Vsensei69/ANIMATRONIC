@@ -17,7 +17,7 @@ Dicho esto según su creador, osea yo, el modelo Mini Foxy será creado para hac
 En este caso el animatrónico a realizar será Foxy, pero se realizara de un tamaño diferente a la que suele tener el animatronico. Para ello procederemos a indicar los satos básicos como la altura e imagenes del aspecto.
 
 #### ALTURA
-El animatrónico tendrá una altura de **0.90 metros** como minimo, como máximo tendrá una altura de **1.30 metros**. 
+El animatrónico tendrá una altura de **1.00 metros** como minimo, como máximo tendrá una altura de **1.50 metros**. 
 Tendrá esta medida por varias razones:
     1. **Seguridad**: es más fácil derribar, o atacar a un robot pequeño que a uno grande, esto se debe al peso,         las piezas grandes metalicas pesan más que las pequeñas.
     2. **Estetica**: me gusta que sea pequeño no voy a mentir
