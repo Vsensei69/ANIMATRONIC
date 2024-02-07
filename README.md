@@ -33,4 +33,4 @@ Tendrá esta medida por varias razones:
 Aquí se dejará un recurso visual de cual es el objetivo a alcanzar en este proyecto. El cual será la imagen que tienes aquí.
 
 
-[!][Foxy Fnaf World](https://images.app.goo.gl/8Pi3KTG5dRMzZrhu7)
+![Foxy Fnaf World](/storage/emulated/0/Download/avatars-000227440578-ba3zrq-t500x500.jpg)
