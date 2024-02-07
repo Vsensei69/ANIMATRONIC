@@ -32,8 +32,8 @@ Tendrá esta medida por varias razones:
 
 Aquí se dejará un recurso visual de cual es el objetivo a alcanzar en este proyecto. El cual será la imagen que tienes aquí.
 
-[Link](https://images.app.goo.gl/8Pi3KTG5dRMzZrhu7)
+[Foxy Fnaf World](https://images.app.goo.gl/8Pi3KTG5dRMzZrhu7)
 
 Para el endoesqueleto utilizaremos como referencia el endoesqueleto de Plushtrap, para los que no lo conozcan es una versión mini de Sprintrap bla bla bla.
 
-[Link](https://images.app.goo.gl/Sf9MGmQjQi5CJvP58)
+[Plushtrap](https://images.app.goo.gl/Sf9MGmQjQi5CJvP58)
