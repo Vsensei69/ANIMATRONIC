@@ -38,4 +38,4 @@ Aquí se dejará un recurso visual de cual es el objetivo a alcanzar en este pro
 
 Para el endoesqueleto utilizaremos como referencia el endoesqueleto de Plushtrap, para los que no lo conozcan es una versión mini de Sprintrap bla bla bla.
 
-![Plushtrap endoesqueleto] (https://images.app.goo.gl/Sf9MGmQjQi5CJvP58)
+![Plushtrap endoesqueleto](https://images.app.goo.gl/Sf9MGmQjQi5CJvP58)
